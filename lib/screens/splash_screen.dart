@@ -1,7 +1,4 @@
-import 'dart:ffi';
-
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
 import 'package:tribun_app/utils/app_colors.dart';
 
 class SplashScreen extends StatefulWidget {
